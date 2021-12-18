@@ -1,7 +1,7 @@
 # PruebaEcommerce
 
 ***
-##COMO EJECUTAR EL PROYECTO 
+## COMO EJECUTAR EL PROYECTO 
 **Primero instalar todas las dependencias utilizadas en la misma con el siguente comando**
 ---
     npm install
